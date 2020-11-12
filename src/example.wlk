@@ -1,4 +1,4 @@
-// PARCIAL DANGER ZONE
+// PARCIAL DANGER ZONE.
 
 class Empleado {
 	var habilidades = #{}
